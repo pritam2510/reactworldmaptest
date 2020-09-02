@@ -1,6 +1,17 @@
 {
-  "main.css": "static/css/main.4ce33981.css",
-  "main.css.map": "static/css/main.4ce33981.css.map",
-  "main.js": "static/js/main.c5da7c09.js",
-  "main.js.map": "static/js/main.c5da7c09.js.map"
+  "files": {
+    "main.css": "/reactworldmaptest/static/css/main.2e461e59.chunk.css",
+    "main.js": "/reactworldmaptest/static/js/main.70940630.chunk.js",
+    "main.js.map": "/reactworldmaptest/static/js/main.70940630.chunk.js.map",
+    "runtime~main.js": "/reactworldmaptest/static/js/runtime~main.52bb4769.js",
+    "runtime~main.js.map": "/reactworldmaptest/static/js/runtime~main.52bb4769.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/reactworldmaptest/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.2e6e91b7.chunk.js": "/reactworldmaptest/static/js/2.2e6e91b7.chunk.js",
+    "static/js/2.2e6e91b7.chunk.js.map": "/reactworldmaptest/static/js/2.2e6e91b7.chunk.js.map",
+    "index.html": "/reactworldmaptest/index.html",
+    "precache-manifest.c10412b69fac93d8023a6b59ce78962a.js": "/reactworldmaptest/precache-manifest.c10412b69fac93d8023a6b59ce78962a.js",
+    "service-worker.js": "/reactworldmaptest/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/reactworldmaptest/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.2e461e59.chunk.css.map": "/reactworldmaptest/static/css/main.2e461e59.chunk.css.map"
+  }
 }
